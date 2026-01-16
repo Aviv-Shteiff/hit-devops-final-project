@@ -2,7 +2,7 @@
 <html>
 <head><title>HIT DevOps App</title></head>
 <body>
-  <h2>HIT DevOps Final Project</h2>
+  <h2>HIT DevOps Final Project - v2</h2>
 
   <form method="GET">
     <label>Your name:</label>
