@@ -1,8 +1,8 @@
 <%@ page contentType="text/html; charset=UTF-8" language="java" %>
 <html>
-<head><title>HIT DevOps App - Demo Change</title></head>
+<head><title>HIT DevOps App</title></head>
 <body>
-  <h2>HIT DevOps Final Project</h2>
+  <h2>HIT DevOps Final Project - Demo Change</h2>
 
   <form method="GET">
     <label>Your name:</label>
